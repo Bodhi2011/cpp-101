@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/eric/github/cpp-101/todo/build",
+  "command": "/usr/bin/c++  -I/home/eric/github/cpp-101/todo/extern/json/include -std=gnu++20 -o CMakeFiles/todo_lib.dir/main.cpp.o -c /home/eric/github/cpp-101/todo/main.cpp",
+  "file": "/home/eric/github/cpp-101/todo/main.cpp",
+  "output": "CMakeFiles/todo_lib.dir/main.cpp.o"
+},
+{
+  "directory": "/home/eric/github/cpp-101/todo/build",
+  "command": "/usr/bin/c++  -I/home/eric/github/cpp-101/todo/extern/json/include -std=gnu++20 -o CMakeFiles/todo_lib.dir/todo.cpp.o -c /home/eric/github/cpp-101/todo/todo.cpp",
+  "file": "/home/eric/github/cpp-101/todo/todo.cpp",
+  "output": "CMakeFiles/todo_lib.dir/todo.cpp.o"
+},
+{
+  "directory": "/home/eric/github/cpp-101/todo/build",
+  "command": "/usr/bin/c++  -I/home/eric/github/cpp-101/todo/extern/json/include -std=gnu++20 -o CMakeFiles/todo.dir/main.cpp.o -c /home/eric/github/cpp-101/todo/main.cpp",
+  "file": "/home/eric/github/cpp-101/todo/main.cpp",
+  "output": "CMakeFiles/todo.dir/main.cpp.o"
+}
+]

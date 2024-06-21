@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/todo.dir/main.cpp.o -o todo  libtodo_lib.a

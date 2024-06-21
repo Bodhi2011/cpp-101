@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtodo_lib.a CMakeFiles/todo_lib.dir/main.cpp.o CMakeFiles/todo_lib.dir/todo.cpp.o
+/usr/bin/ranlib libtodo_lib.a
